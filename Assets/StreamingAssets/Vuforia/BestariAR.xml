@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tiger" size="10.000000 7.070000" />
+    <ImageTarget name="sister" size="10.000000 7.070000" />
+    <ImageTarget name="ship" size="10.000000 7.070000" />
+    <ImageTarget name="sheep" size="10.000000 7.070000" />
+    <ImageTarget name="rhino" size="10.000000 7.070000" />
+    <ImageTarget name="polisi" size="10.000000 7.070000" />
+    <ImageTarget name="police_car" size="10.000000 7.070000" />
+    <ImageTarget name="plane" size="10.000000 7.070000" />
+    <ImageTarget name="Pilot" size="10.000000 7.070000" />
+    <ImageTarget name="pig" size="10.000000 7.070000" />
+    <ImageTarget name="mom" size="10.000000 7.070000" />
+    <ImageTarget name="kuda" size="10.000000 7.070000" />
+    <ImageTarget name="Koki" size="10.000000 7.070000" />
+    <ImageTarget name="jerapah" size="10.000000 7.070000" />
+    <ImageTarget name="hen" size="10.000000 7.070000" />
+    <ImageTarget name="guru" size="10.000000 7.070000" />
+    <ImageTarget name="grandpa" size="10.000000 7.070000" />
+    <ImageTarget name="grandma" size="10.000000 7.070000" />
+    <ImageTarget name="goose" size="10.000000 7.070000" />
+    <ImageTarget name="gajah" size="10.000000 7.070000" />
+    <ImageTarget name="dokter" size="10.000000 7.070000" />
+    <ImageTarget name="dog" size="10.000000 7.070000" />
+    <ImageTarget name="dad" size="10.000000 7.070000" />
+    <ImageTarget name="cow" size="10.000000 7.070000" />
+    <ImageTarget name="Cleaner" size="10.000000 7.070000" />
+    <ImageTarget name="bro" size="10.000000 7.070000" />
+    <ImageTarget name="boar" size="10.000000 7.070000" />
+    <ImageTarget name="ambulance" size="10.000000 7.070000" />
+  </Tracking>
+</QCARConfig>
