@@ -256,6 +256,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1159366533}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1159366534}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1159366535}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1159366536}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &18964299
 PrefabInstance:
@@ -493,6 +502,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 31326362}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &31326385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31326359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 31326362}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: polisi
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 31326362}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &31326386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31326359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 31326362}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: polisi
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 31326362}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &31326387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31326359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 31326362}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: polisi
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 31326362}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &66613151 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
@@ -647,6 +713,177 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 66613154}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &66613177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66613151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 66613154}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: boar
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 66613154}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &66613178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66613151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 66613154}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: boar
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 66613154}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &66613179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 66613151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 66613154}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: boar
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 66613154}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!1001 &88749776
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 365837212}
+    m_Modifications:
+    - target: {fileID: 470130225536304392, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 892722423}
+    - target: {fileID: 470130225536304392, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ChangeScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080793466738823638, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_Name
+      value: BackButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -315
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -486
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+--- !u!224 &88749777 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7375906892206071054, guid: 8123d7fdc2147e445a920b3ccf383b78, type: 3}
+  m_PrefabInstance: {fileID: 88749776}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &132521488
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -996,6 +1233,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 221533650}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &221533673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 221533647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 221533650}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: sheep
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 221533650}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &221533674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 221533647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 221533650}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: sheep
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 221533650}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &221533675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 221533647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 221533650}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: sheep
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 221533650}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &365299142 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
@@ -1222,6 +1516,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 365299145}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &365299171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365299142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 365299145}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: rhino
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 365299145}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &365299172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365299142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 365299145}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: rhino
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 365299145}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &365299173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 365299142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 365299145}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: rhino
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 365299145}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &365837208
 GameObject:
   m_ObjectHideFlags: 0
@@ -1270,7 +1621,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -1317,6 +1668,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2051107738}
+  - {fileID: 88749777}
   m_Father: {fileID: 0}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1479,6 +1831,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 369374894}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &369374917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 369374891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 369374894}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Koki
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 369374894}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &369374918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 369374891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 369374894}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Koki
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 369374894}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &369374919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 369374891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 369374894}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Koki
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 369374894}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &410507024
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1618,6 +2027,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 410507047}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 410507048}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 410507049}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 410507050}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1 &410507025 stripped
 GameObject:
@@ -1774,6 +2192,63 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &410507047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410507025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 410507026}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: ambulance
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 410507026}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &410507048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410507025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 410507026}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: ambulance
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 410507026}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &410507049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410507025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 410507026}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: ambulance
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 410507026}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &410507050
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2014,6 +2489,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1528186174}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1528186175}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1528186176}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1528186177}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &512238964
 PrefabInstance:
@@ -2023,6 +2507,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1130745362773362257, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 684588f2bf4f44743855094515469843, type: 3}
     - target: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       propertyPath: m_Name
       value: Police
@@ -2128,6 +2616,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1585579978}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1585579979}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1585579980}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1585579981}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &578832200
 PrefabInstance:
@@ -2833,6 +3330,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 365299170}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 365299171}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 365299172}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 365299173}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1 &656267163 stripped
 GameObject:
@@ -2847,6 +3353,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1130745362773362257, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2b37b1cb5319dd14996a1beb9546d69b, type: 3}
     - target: {fileID: 4005845021040496861, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       propertyPath: mHiddenRoot
       value: 
@@ -2972,6 +3482,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 369374916}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 369374917}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 369374918}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 369374919}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1 &705507993
 GameObject:
@@ -3876,6 +4395,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1130745362773362257, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 54df3b3b13ea26846b3c7922353a2113, type: 3}
     - target: {fileID: 4005845021040496861, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       propertyPath: mHiddenRoot
       value: 
@@ -4001,6 +4524,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1490355009}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1490355010}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1490355011}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1490355012}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1 &725310189 stripped
 GameObject:
@@ -4156,6 +4688,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 725310192}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &725310215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725310189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 725310192}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: jerapah
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 725310192}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &725310216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725310189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 725310192}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: jerapah
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 725310192}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &725310217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725310189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 725310192}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: jerapah
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 725310192}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &773100180 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
@@ -4292,6 +4881,63 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &773100205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 773100180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 773100183}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: dokter
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 773100183}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &773100206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 773100180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 773100183}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: dokter
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 773100183}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &773100207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 773100180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 773100183}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: dokter
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 773100183}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &773100208
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4500,6 +5146,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 840107958}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &840107981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 840107955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 840107958}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: goose
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 840107958}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &840107982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 840107955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 840107958}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: goose
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 840107958}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &840107983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 840107955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 840107958}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: goose
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 840107958}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &874205193 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
@@ -4654,6 +5357,107 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 874205196}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &874205220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 874205193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 874205196}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: cow
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 874205196}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &874205221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 874205193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 874205196}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: cow
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 874205196}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &874205222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 874205193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 874205196}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: cow
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 874205196}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!1 &892722422
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 892722424}
+  - component: {fileID: 892722423}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &892722423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892722422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e09540c36eddcc14e92b6761f2fb3d49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &892722424
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 892722422}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 173.27861, y: 166.13107, z: -1.7600628}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &899617803
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5489,6 +6293,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1840184141}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1840184142}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1840184143}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1840184144}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &978395687
 PrefabInstance:
@@ -5790,6 +6603,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 221533672}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 221533673}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 221533674}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 221533675}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1066091754
 PrefabInstance:
@@ -5928,6 +6750,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 66613176}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 66613177}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 66613178}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 66613179}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!4 &1074450254 stripped
 Transform:
@@ -6075,6 +6906,63 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1100036067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100036042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1100036045}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: hen
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1100036045}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1100036068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100036042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1100036045}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: hen
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1100036045}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1100036069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100036042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1100036045}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: hen
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1100036045}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1100036070
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6247,6 +7135,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1159366511}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1159366534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1159366508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1159366511}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Cleaner
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1159366511}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1159366535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1159366508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1159366511}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Cleaner
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1159366511}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1159366536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1159366508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1159366511}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Cleaner
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1159366511}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1184036092
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6380,6 +7325,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 840107980}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 840107981}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 840107982}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 840107983}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1190853550
 PrefabInstance:
@@ -6596,6 +7550,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1100036067}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1100036068}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1100036069}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1100036070}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1196527617
 PrefabInstance:
@@ -7259,6 +8222,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1564165279}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1564165280}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1564165281}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1564165282}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1 &1252000877 stripped
 GameObject:
@@ -7402,6 +8374,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 874205219}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 874205220}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 874205221}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 874205222}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!4 &1326506583 stripped
 Transform:
@@ -7792,6 +8773,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1490354987}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1490355010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1490354984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1490354987}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: guru
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1490354987}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1490355011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1490354984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1490354987}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: guru
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1490354987}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1490355012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1490354984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1490354987}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: guru
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1490354987}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1522650797
 GameObject:
   m_ObjectHideFlags: 0
@@ -8128,6 +9166,63 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1528186174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528186148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1528186151}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: ship
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1528186151}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1528186175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528186148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1528186151}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: ship
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1528186151}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1528186176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528186148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1528186151}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: ship
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1528186151}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1528186177
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8801,6 +9896,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1130745362773362257, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b2a0f27bf7bdd6f459c955440e05acb9, type: 3}
     - target: {fileID: 4005845021040496861, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       propertyPath: mHiddenRoot
       value: 
@@ -8926,6 +10025,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 31326384}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 31326385}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 31326386}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 31326387}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!4 &1552442668 stripped
 Transform:
@@ -9068,6 +10176,63 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1564165279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1564165254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1564165257}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: pig
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1564165257}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1564165280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1564165254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1564165257}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: pig
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1564165257}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1564165281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1564165254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1564165257}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: pig
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1564165257}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1564165282
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9235,6 +10400,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1585579957}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1585579979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585579954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1585579957}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Polisi_Fix
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1585579957}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1585579980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585579954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1585579957}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Polisi_Fix
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1585579957}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1585579981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585579954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1585579957}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Polisi_Fix
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1585579957}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1625386641
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9372,6 +10594,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 725310214}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 725310215}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 725310216}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 725310217}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1633102447
 PrefabInstance:
@@ -9676,6 +10907,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1836623515}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1836623516}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1836623517}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1836623518}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1680590127
 PrefabInstance:
@@ -9870,6 +11110,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1702147808}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1702147809}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1702147810}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1702147811}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!4 &1702147784 stripped
 Transform:
@@ -10002,6 +11251,63 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1702147808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252000877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1702147787}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: tiger
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1702147787}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1702147809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252000877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1702147787}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: tiger
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1702147787}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1702147810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252000877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1702147787}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: tiger
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1702147787}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1702147811
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10179,6 +11485,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1836623493}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1836623516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836623490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1836623493}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: dog
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1836623493}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1836623517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836623490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1836623493}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: dog
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1836623493}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1836623518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836623490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1836623493}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: dog
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1836623493}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1840184116 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
@@ -10333,6 +11696,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1840184119}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1840184142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1840184116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1840184119}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: kuda
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1840184119}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1840184143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1840184116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1840184119}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: kuda
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1840184119}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1840184144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1840184116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 1840184119}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: kuda
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 1840184119}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1857189744
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10466,6 +11886,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2050784529}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2050784530}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2050784531}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2050784532}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1919214950
 PrefabInstance:
@@ -10475,6 +11904,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1130745362773362257, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b37830779506df74daa12010674cc11b, type: 3}
     - target: {fileID: 4005845021040496861, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       propertyPath: mHiddenRoot
       value: 
@@ -10600,6 +12033,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
       insertIndex: -1
       addedObject: {fileID: 773100205}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 773100206}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 773100207}
+    - targetCorrespondingSourceObject: {fileID: 5642690068143866439, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 773100208}
   m_SourcePrefab: {fileID: 100100000, guid: 6c5b4e5f1b8c38942ae100bbac4b65d9, type: 3}
 --- !u!1001 &1948435640
 PrefabInstance:
@@ -10926,6 +12368,63 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 2050784507}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &2050784530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050784504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 2050784507}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: gajah
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 2050784507}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &2050784531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050784504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 2050784507}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: gajah
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 2050784507}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &2050784532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050784504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mObserverBehaviour: {fileID: 2050784507}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: gajah
+  mDatasetName: Vuforia/BestariAR.xml
+  mCastedBehaviour: {fileID: 2050784507}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &2051107737
 GameObject:
   m_ObjectHideFlags: 0
@@ -10938,7 +12437,7 @@ GameObject:
   - component: {fileID: 2051107740}
   - component: {fileID: 2051107739}
   m_Layer: 5
-  m_Name: RawImage
+  m_Name: Petunjuk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
